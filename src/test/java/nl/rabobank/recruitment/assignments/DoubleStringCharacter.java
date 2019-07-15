@@ -26,6 +26,6 @@ public class DoubleStringCharacter {
     }
 
     private String getFirstDoubleCharacter(final String value) {
-
+        return null;
     }
 }
