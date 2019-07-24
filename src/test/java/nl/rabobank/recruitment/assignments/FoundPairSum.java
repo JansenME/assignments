@@ -28,8 +28,6 @@ public class FoundPairSum {
     }
 
     private boolean method(final Integer[] intArray) {
-
-
-return false;
+        return false;
     }
 }
